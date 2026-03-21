@@ -6,7 +6,7 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 # BUSINESS INSIGHTS FROM THE BMHSRP DASHBOARD
-  <img src="https://github.com/Nagendra7290/BMHSRP---Control-Tower-Dashboard-PowerBI-/blob/main/Screenshot%202026-01-31%20231035.png" alt="Vehicle Registration Control Tower Dashboard" width="100%">
+  <img src="https://github.com/Nagendra7290/BMHSRP---Control-Tower-Dashboard-PowerBI-/blob/main/Screenshot%202026-03-22%20023900.png" alt="Vehicle Registration Control Tower Dashboard" width="100%">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi"/>
