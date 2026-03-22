@@ -121,8 +121,6 @@ It enables **real-time tracking of vehicle registrations, OEM performance, deale
 📊 *Sr. Control Tower Executive | Supply Chain & Data Analytics*  
 📍 India  
 
-🔗 **Portfolio:** https://nagendra7290.github.io/Portfolio/  
-
 ---
 
 ## ⭐ Support  
