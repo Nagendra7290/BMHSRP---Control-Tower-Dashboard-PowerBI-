@@ -100,12 +100,6 @@ It enables **real-time tracking of vehicle registrations, OEM performance, deale
 
 ---
 
-## 📸 Dashboard Preview  
-
-![Dashboard Preview](assets/dashboard.png)
-
----
-
 ## 📂 Project Structure  
 
     BMHSRP-Analytics-Dashboard/
