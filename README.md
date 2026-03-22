@@ -8,87 +8,131 @@
 # BUSINESS INSIGHTS FROM THE BMHSRP DASHBOARD
   <img src="https://github.com/Nagendra7290/BMHSRP---Control-Tower-Dashboard-PowerBI-/blob/main/Screenshot%202026-03-22%20023900.png" alt="Vehicle Registration Control Tower Dashboard" width="100%">
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Domain-Supply%20Chain-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge"/>
-</p>
 
-## 🔍 Project Overview
-This project delivers a **high-impact analytical dashboard** designed to monitor  
-**vehicle registrations, OEM performance, dealer productivity, fuel trends, and affixation operations** under the **BMHSRP ecosystem**.
-🎯 Built for **decision-makers, operations heads, and control tower teams**.
+### 📊 Vehicle Registration & Supply Chain Intelligence | Power BI Project  
 
 ---
-## 🧠 Business Objectives
-✔ Track daily & monthly vehicle registrations  
-✔ Monitor dealer & OEM performance  
-✔ Identify operational bottlenecks  
-✔ Improve upload compliance  
-✔ Enable data-driven supply chain decisions  
+
+## 🔗 Project Overview  
+This project presents a **high-impact analytical dashboard** developed to monitor and optimize operations within the **BMHSRP (High Security Registration Plate) ecosystem**.  
+
+It enables **real-time tracking of vehicle registrations, OEM performance, dealer productivity, fuel trends, and affixation workflows**, supporting **data-driven decision-making** across supply chain operations.
+
+🎯 Designed for **Operations Heads, Control Tower Teams, and Business Decision-Makers**
 
 ---
-## 📊 Dashboard Highlights
 
-🔹 **57,170+ Vehicles Analyzed**  
-🔹 **519 Dealers | 33 OEMs**  
-🔹 **96% Upload Compliance**  
-🔹 **LMV & Petrol Vehicles Dominate**  
+## 🧠 Business Objectives  
+- Track **daily & monthly vehicle registration trends**  
+- Monitor **OEM and dealer performance metrics**  
+- Identify **operational bottlenecks and inefficiencies**  
+- Improve **upload compliance and data accuracy**  
+- Enable **data-driven supply chain optimization**
+
 ---
 
-## 📈 Key Insights
-### 🚗 Vehicle Trends
-- End-of-month registration spikes
-- Mid-month operational slowdown
-- LMV accounts for majority of registrations
-### 🏪 Dealer Performance
-- Top 5 dealers handle bulk volume
-- Long-tail dealer optimization opportunity
-### 🏭 OEM Analysis
-- Maruti, Hyundai, Hero, Bajaj dominate
-- High OEM concentration risk
-### ⛽ Fuel Analysis
-- Petrol vehicles = ~80%
-- EV adoption is negligible → future scope
+## 📊 Dashboard Highlights  
+
+- 🚗 **57,170+ Vehicles Analyzed**  
+- 🏪 **519 Dealers | 33 OEMs**  
+- 📈 **96% Upload Compliance**  
+- ⛽ **Petrol & LMV Segment Dominance**
+
 ---
 
-## 🧩 Data Model Summary
-| Dimension | Description |
-|--------|------------|
-| OEMName | Manufacturer |
-| Dealer ID | Unique Dealer |
-| Vehicle Class | Transport / Non-Transport |
-| Fuel Type | Petrol, Diesel, Hybrid, EV |
-| Upload Status | Uploaded / Pending |
-| Dates | Order, Assign, Registration |
+## 📈 Key Insights  
+
+### 🚗 Vehicle Trends  
+- Significant **end-of-month registration spikes**  
+- Noticeable **mid-month operational slowdown**  
+- **LMV segment dominates** total registrations  
+
+### 🏪 Dealer Performance  
+- **Top 5 dealers contribute majority volume**  
+- Opportunity to **optimize long-tail dealer network**  
+
+### 🏭 OEM Analysis  
+- Market dominated by **Maruti, Hyundai, Hero, Bajaj**  
+- Indicates **high OEM concentration risk**  
+
+### ⛽ Fuel Insights  
+- **~80% vehicles are Petrol-based**  
+- **EV adoption is minimal**, highlighting future growth potential  
+
 ---
 
-## 🛠️ Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Data-Excel-green?logo=microsoft-excel"/>
-  <img src="https://img.shields.io/badge/Analytics-Supply%20Chain-blue"/>
-</p>
+## 🧩 Data Model  
+
+| Dimension        | Description                          |
+|----------------|--------------------------------------|
+| OEM Name        | Vehicle Manufacturer                 |
+| Dealer ID       | Unique Dealer Identifier             |
+| Vehicle Class   | Transport / Non-Transport            |
+| Fuel Type       | Petrol, Diesel, Hybrid, EV           |
+| Upload Status   | Uploaded / Pending                   |
+| Dates           | Order, Assignment, Registration      |
+
 ---
 
-## 🎯 Business Impact
-✅ Faster decision-making  
-✅ Dealer accountability  
-✅ Improved upload compliance  
-✅ OEM performance benchmarking  
+## 🛠️ Tools & Technologies  
+
+- 📊 **Power BI** – Dashboard & Data Visualization  
+- 📑 **Microsoft Excel** – Data Processing  
+- 🔄 **Supply Chain Analytics** – Business Insights  
+
 ---
 
-## 🚀 Future Enhancements
+## 🎯 Business Impact  
 
-🔸 EV trend forecasting  
-🔸 SLA breach alerts  
-🔸 Dealer ranking automation  
-🔸 AI-based demand prediction  
+- ✅ Enabled **faster and data-driven decision-making**  
+- ✅ Improved **dealer accountability and performance tracking**  
+- ✅ Increased **upload compliance visibility (96%)**  
+- ✅ Delivered **OEM benchmarking insights**  
+
 ---
 
-## 👤 Author
+## 🚀 Future Enhancements  
+
+- 🔮 EV demand & adoption forecasting  
+- 🚨 SLA breach alert system  
+- 🏆 Automated dealer ranking model  
+- 🤖 AI-based demand prediction  
+
+---
+
+## 📸 Dashboard Preview  
+
+![Dashboard Preview](assets/dashboard.png)
+
+---
+
+## 📂 Project Structure  
+
+    BMHSRP-Analytics-Dashboard/
+    │── data/
+    │   ├── raw_data.xlsx
+    │   └── processed_data.xlsx
+    │
+    │── dashboard/
+    │   └── BMHSRP_Dashboard.pbix
+    │
+    │── assets/
+    │   └── dashboard.png
+    │
+    │── README.md
+
+## 👤 Author  
+
 **Nagendra Arya**  
-📊 Sr. Control Tower Executive – Supply Chain Operations  
+📊 *Sr. Control Tower Executive | Supply Chain & Data Analytics*  
 📍 India  
 
-🔗 *If this project helped you, give it a ⭐*
+🔗 **Portfolio:** https://nagendra7290.github.io/Portfolio/  
+
+---
+
+## ⭐ Support  
+
+If you found this project useful:  
+👉 Give it a **star ⭐ on GitHub**  
+👉 Share with others in **Data Analytics & Supply Chain domain**
