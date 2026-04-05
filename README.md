@@ -9,8 +9,6 @@
   <img src="https://github.com/Nagendra7290/BMHSRP---Control-Tower-Dashboard-PowerBI-/blob/main/Screenshot%202026-03-22%20023900.png" alt="Vehicle Registration Control Tower Dashboard" width="100%">
 </p>
 
-# Vehicle Registration & Supply Chain Intelligence | Power BI Project  
----
 ## Project Overview
 
 This project delivers a high-impact analytical dashboard designed to monitor and optimize operations within the BMHSRP (High Security Registration Plate) ecosystem.
