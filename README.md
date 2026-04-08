@@ -132,9 +132,7 @@ BMHSRP-Analytics-Dashboard/
 ## Author
 
 Nagendra Arya  
-Senior Control Tower Executive  
-Supply Chain and Data Analytics  
-India  
+Senior Control Tower Executive II Supply Chain and Data Analytics  
 
 ---
 
